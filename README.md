@@ -1,1 +1,1 @@
-# ToDoList
+# O ToDoList é uma valiosa ferramenta para manter sua rotina organizada e aumentar sua produtividade. Ele oferece a possibilidade de criar listas detalhadas de tarefas e contém todas as funcionalidades necessárias para gerenciar seu tempo e tarefas pendentes de forma eficiente.
