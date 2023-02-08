@@ -9,8 +9,10 @@
   
   body {
     background-image: url("../img/wallhaven-n6776x.jpg");
-    background-position: 100;
+    background-position: center;
     background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
   }
   
   button {
@@ -65,29 +67,25 @@
   }
   
   /* Todo Form */
-  #todo-form,
-  #edit-form {
+  #todo-form {
     padding: 1rem;
     border-bottom: 1px solid #ccc;
   }
   
-  #todo-form p,
-  #edit-form p {
+  #todo-form p {
     margin-bottom: 0.5rem;
     font-weight: bold;
+    text-align: center;
   }
   
   .form-control {
     display: flex;
+    justify-content: center;
   }
   
   .form-control input {
+    width: 100%;
     margin-right: 0.3rem;
-  }
-  
-  #cancel-edit-btn {
-    margin-top: 1rem;
-    color: #444;
   }
   
   /* Todo Toolbar */
